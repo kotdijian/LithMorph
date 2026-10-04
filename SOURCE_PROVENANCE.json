@@ -1,0 +1,220 @@
+{
+  "generated_on": "2026-10-05",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "07798aef2aa4f5ffa1a1a9574e19bbf152a2d73f4d5d42f2ea4039333cd6632b",
+      "origin": "integration work 2026-10-05"
+    },
+    {
+      "path": "DevelopmentReport.md",
+      "sha256": "13667c7c7646fbcee6652f5dee409ed4dea006accfd084f431193e6e761dd903",
+      "origin": "integration work 2026-10-05"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "8d3e39ea73c047121f053c4748c1d45adc5f6b8304302e025269212678e6afa1",
+      "origin": "integration work 2026-10-05"
+    },
+    {
+      "path": "LithMorph.py",
+      "sha256": "d7127098c8fe2f8358a6b0b2166d627bfea88cc2829d13ccbb08dd2062ffdd43",
+      "origin": "integration work 2026-10-05"
+    },
+    {
+      "path": "README.md",
+      "sha256": "7702af82f3dbb988d289b49ed1125900800ce10c88d815897a317f55e1cadbe7",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/README.md",
+      "upstream_sha256": "f1b23de076d59637eb157a315036ec8d92d471a8777c189605f307c54ab9483e",
+      "modified": true
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "1da469b30d84803333603f654469732b7e39aa9ee84f81133ed8b76a673cdc99",
+      "origin": "integration work 2026-10-05"
+    },
+    {
+      "path": "analyze.py",
+      "sha256": "18e0e873512d27925aeef5c215b9eb7b299cfce547b40eeab2b4723af7aeb305",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/analyze.py",
+      "upstream_sha256": "83a171de98cd13a90c2d6da0bf4343751f68e255c1c421a95f44e22007034d60",
+      "modified": true
+    },
+    {
+      "path": "benchmark.py",
+      "sha256": "572b46d2140bcb8de8e8e3e02765d717d01bddd89cd431c47bf08699044a2bd5",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/benchmark.py",
+      "upstream_sha256": "572b46d2140bcb8de8e8e3e02765d717d01bddd89cd431c47bf08699044a2bd5",
+      "modified": false
+    },
+    {
+      "path": "experimental/surface_enhancement_lab.py",
+      "sha256": "6eaee5044670f15fdc36100267525a75fcdd9fe391625600a9c86b350bdddc1e",
+      "origin": "previously distributed surface_enhancement_lab_v0_7_3.py",
+      "upstream_version": "v0.7.3",
+      "upstream_sha256": "6eaee5044670f15fdc36100267525a75fcdd9fe391625600a9c86b350bdddc1e",
+      "modified": false
+    },
+    {
+      "path": "lithmorph/__init__.py",
+      "sha256": "1da59087b3dccce139a0949e96dc83fffb1c663bc50f3eb2db3ee53521c0ea40",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/__init__.py",
+      "upstream_sha256": "1da59087b3dccce139a0949e96dc83fffb1c663bc50f3eb2db3ee53521c0ea40",
+      "modified": false
+    },
+    {
+      "path": "lithmorph/analysis.py",
+      "sha256": "2833cf0da547fea9b75eceaedc3b8d319df822fc320fed0ef7eeae89221aabe2",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/analysis.py",
+      "upstream_sha256": "a025029f99fbcdf0f1a043d7795b9ed1321bf3a984205eb6f86fcbcbd4bea8d8",
+      "modified": true
+    },
+    {
+      "path": "lithmorph/asset_metadata.py",
+      "sha256": "d3a63e7b1dd172c77591e725e1c36b84cd48b72b143bc4e956e8c3fa5535cad8",
+      "origin": "integration work 2026-10-05"
+    },
+    {
+      "path": "lithmorph/contours.py",
+      "sha256": "0dadc40a283a88b5569b32603439d96c4325370f9b16cdfafd577f0eddb0f269",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/contours.py",
+      "upstream_sha256": "0dadc40a283a88b5569b32603439d96c4325370f9b16cdfafd577f0eddb0f269",
+      "modified": false
+    },
+    {
+      "path": "lithmorph/export.py",
+      "sha256": "8cd61488453c5298dbd6c617edd940c1aa77689b624716b6b84f91134ad55e7f",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/export.py",
+      "upstream_sha256": "8cd61488453c5298dbd6c617edd940c1aa77689b624716b6b84f91134ad55e7f",
+      "modified": false
+    },
+    {
+      "path": "lithmorph/io.py",
+      "sha256": "e9301dd32aa3ec8c172dbabf4e39b86ff58405314a874c03837e0df60f4190ab",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/io.py",
+      "upstream_sha256": "ff2c8f2519ce5dda0977a7ef975046bba1af243d92b15dec4ab65c164d9ad9e6",
+      "modified": true
+    },
+    {
+      "path": "lithmorph/models.py",
+      "sha256": "8b02c65bf230302fc624b87252bc4d32cefc4d3833d89088607d36b0ad1f7cfe",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/models.py",
+      "upstream_sha256": "8b02c65bf230302fc624b87252bc4d32cefc4d3833d89088607d36b0ad1f7cfe",
+      "modified": false
+    },
+    {
+      "path": "lithmorph/optional/__init__.py",
+      "sha256": "528056676f011e5308ae6a9b95d295ee7b82bdd79b44319d552eff5e37d5ff32",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/optional/__init__.py",
+      "upstream_sha256": "528056676f011e5308ae6a9b95d295ee7b82bdd79b44319d552eff5e37d5ff32",
+      "modified": false
+    },
+    {
+      "path": "lithmorph/optional/base.py",
+      "sha256": "9c096b7d3a9e5d9b617c6976e6aa7e7cb86bcd8158c0a23d5bf3faa34f6dfbaa",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/optional/base.py",
+      "upstream_sha256": "9c096b7d3a9e5d9b617c6976e6aa7e7cb86bcd8158c0a23d5bf3faa34f6dfbaa",
+      "modified": false
+    },
+    {
+      "path": "lithmorph/planform.py",
+      "sha256": "5497871af7581ec9888095d6437fd6a0512ca83b1e8e2d0c3389f6bfa828cc48",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/planform.py",
+      "upstream_sha256": "5497871af7581ec9888095d6437fd6a0512ca83b1e8e2d0c3389f6bfa828cc48",
+      "modified": false
+    },
+    {
+      "path": "lithmorph/sampling.py",
+      "sha256": "896349170e3cfed0bdc7b345cec02d1e16d3671c5c12346f664335d4fe9c999c",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/sampling.py",
+      "upstream_sha256": "896349170e3cfed0bdc7b345cec02d1e16d3671c5c12346f664335d4fe9c999c",
+      "modified": false
+    },
+    {
+      "path": "lithmorph/sections.py",
+      "sha256": "d495b2a54ad5b0c71770d07a1e6f357295cff103f7ee48f6d8c279f80d70eeaf",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/lithmorph/sections.py",
+      "upstream_sha256": "d495b2a54ad5b0c71770d07a1e6f357295cff103f7ee48f6d8c279f80d70eeaf",
+      "modified": false
+    },
+    {
+      "path": "requirements-dev.txt",
+      "sha256": "d1f7a9a74d4999930cf88eba1fefc834281a91cbd10efb799ba3f72767e9c5b9",
+      "origin": "integration work 2026-10-05"
+    },
+    {
+      "path": "requirements-surface.txt",
+      "sha256": "6819bfa64b21a75e3a982873ac1f5912b4825f3d8b40b02f15a3854f1d6bdd47",
+      "origin": "integration work 2026-10-05"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "8ac90be1b512b4b6f8c1bdde0ccbdb7d94337872aaaa3bfd2f727af5512fdcd0",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/requirements.txt",
+      "upstream_sha256": "7411c348ce5978e400454590a2a971a3add7916feddcce97af11304340779fc9",
+      "modified": true
+    },
+    {
+      "path": "self_test.py",
+      "sha256": "6a664262b50d2fd855c6be23f89a25b6bbacb01481afc72b8c9e9b0e74419f40",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/self_test.py",
+      "upstream_sha256": "6a664262b50d2fd855c6be23f89a25b6bbacb01481afc72b8c9e9b0e74419f40",
+      "modified": false
+    },
+    {
+      "path": "tests/test_asset_metadata.py",
+      "sha256": "3e3d0cea8af00a8095820ac8fa029061d107b783623b51cd7243b6554631d2e4",
+      "origin": "integration work 2026-10-05"
+    },
+    {
+      "path": "tests/test_box_geometry.py",
+      "sha256": "0ab9f45ca75cfe647779467a50d33f9ef607abfd77e9561423e16ca02c19a3bc",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/tests/test_box_geometry.py",
+      "upstream_sha256": "0ab9f45ca75cfe647779467a50d33f9ef607abfd77e9561423e16ca02c19a3bc",
+      "modified": false
+    },
+    {
+      "path": "tests/test_sampling.py",
+      "sha256": "ec919b0647107262c7809542575f80fa33af43f74085bb1c87175fb378736a1c",
+      "origin": "https://github.com/kotdijian/ArtefactsOrthoMaker",
+      "upstream_ref": "5d772de098c41a056580d922b1f81013b803ad5e",
+      "upstream_file": "LithMorph_v0_1_0_dev2.zip/tests/test_sampling.py",
+      "upstream_sha256": "ec919b0647107262c7809542575f80fa33af43f74085bb1c87175fb378736a1c",
+      "modified": false
+    }
+  ]
+}
